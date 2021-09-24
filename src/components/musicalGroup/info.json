@@ -1,0 +1,80 @@
+
+       
+{
+ 
+    "data": [  
+         {
+           "id": 0,
+           "nameGropu": "Silvestre Dangond",
+           "image":"https://caracoltv.brightspotcdn.com/dims4/default/a5c289a/2147483647/strip/true/crop/1280x1275+0+0/resize/1200x1195!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fbe%2F10%2Ff3e5269b4bb79e6ef5fc21247818%2Fwhatsapp-image-2020-10-22-at-9.44.49%20AM.jpeg",
+           "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sed alias laborum iste adipisci deserunt pariatur voluptatum magnam error, omnis ex rem exercitationem doloremque eos fuga velit dolore, voluptas illum. Reiciendis quibusdam ut corporis, hic dignissimos dolorem excepturi incidunt deleniti, soluta perferendis nulla rem ipsa ratione, minima cupiditate voluptate? Sapiente culpa magnam, voluptatem ea omnis deleniti beatae? Perspiciatis soluta architecto, veniam, accusamus suscipit culpa repudiandae nobis quam quia necessitatibus quos. Architecto sunt quis accusantium repellat voluptas cupiditate ipsum voluptate beatae, atque, dolorem recusandae repudiandae nisi? Rerum nihil unde at officia. Iure asperiores, incidunt ullam labore dolore molestiae. Voluptatibus, beatae aut.",
+           "city": "Valledupar",
+           "gender" : "Vallenato"
+         },
+         {
+            "id": 1,
+            "nameGropu": "J Balvin",
+            "image":"https://www.czcomunicacion.com/media/k2/items/cache/fd57315048b2a0e2ee02ed04b0927842_XL.jpg",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sed alias laborum iste adipisci deserunt pariatur voluptatum magnam error, omnis ex rem exercitationem doloremque eos fuga velit dolore, voluptas illum. Reiciendis quibusdam ut corporis, hic dignissimos dolorem excepturi incidunt deleniti, soluta perferendis nulla rem ipsa ratione, minima cupiditate voluptate? Sapiente culpa magnam, voluptatem ea omnis deleniti beatae? Perspiciatis soluta architecto, veniam, accusamus suscipit culpa repudiandae nobis quam quia necessitatibus quos. Architecto sunt quis accusantium repellat voluptas cupiditate ipsum voluptate beatae, atque, dolorem recusandae repudiandae nisi? Rerum nihil unde at officia. Iure asperiores, incidunt ullam labore dolore molestiae. Voluptatibus, beatae aut.",
+            "city": "Medellín",
+            "gender" : "Reggaetón"
+          },
+          {
+            "id": 2,
+            "nameGropu": "Peter Manjarres",
+            "image":"https://i.scdn.co/image/ab67616d0000b2737caddaadb89043a1fedcd8bf",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sed alias laborum iste adipisci deserunt pariatur voluptatum magnam error, omnis ex rem exercitationem doloremque eos fuga velit dolore, voluptas illum. Reiciendis quibusdam ut corporis, hic dignissimos dolorem excepturi incidunt deleniti, soluta perferendis nulla rem ipsa ratione, minima cupiditate voluptate? Sapiente culpa magnam, voluptatem ea omnis deleniti beatae? Perspiciatis soluta architecto, veniam, accusamus suscipit culpa repudiandae nobis quam quia necessitatibus quos. Architecto sunt quis accusantium repellat voluptas cupiditate ipsum voluptate beatae, atque, dolorem recusandae repudiandae nisi? Rerum nihil unde at officia. Iure asperiores, incidunt ullam labore dolore molestiae. Voluptatibus, beatae aut.",
+            "city": "Valledupar",
+            "gender" : "Vallenato"
+          },
+          {
+            "id": 3,
+            "nameGropu": "Grupo Niche",
+            "image":"https://gruponiche.com/wp-content/uploads/2021/01/40-Grupo-Niche.jpg",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sed alias laborum iste adipisci deserunt pariatur voluptatum magnam error, omnis ex rem exercitationem doloremque eos fuga velit dolore, voluptas illum. Reiciendis quibusdam ut corporis, hic dignissimos dolorem excepturi incidunt deleniti, soluta perferendis nulla rem ipsa ratione, minima cupiditate voluptate? Sapiente culpa magnam, voluptatem ea omnis deleniti beatae? Perspiciatis soluta architecto, veniam, accusamus suscipit culpa repudiandae nobis quam quia necessitatibus quos. Architecto sunt quis accusantium repellat voluptas cupiditate ipsum voluptate beatae, atque, dolorem recusandae repudiandae nisi? Rerum nihil unde at officia. Iure asperiores, incidunt ullam labore dolore molestiae. Voluptatibus, beatae aut.",
+            "city": "Cali",
+            "gender" : "Salsa"
+          },
+          {
+            "id": 4,
+            "nameGropu": "Mr Black",
+            "image":"https://oficialchampeta.org/wp-content/uploads/2021/08/Mr-Black-El-Presidente.jpg",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sed alias laborum iste adipisci deserunt pariatur voluptatum magnam error, omnis ex rem exercitationem doloremque eos fuga velit dolore, voluptas illum. Reiciendis quibusdam ut corporis, hic dignissimos dolorem excepturi incidunt deleniti, soluta perferendis nulla rem ipsa ratione, minima cupiditate voluptate? Sapiente culpa magnam, voluptatem ea omnis deleniti beatae? Perspiciatis soluta architecto, veniam, accusamus suscipit culpa repudiandae nobis quam quia necessitatibus quos. Architecto sunt quis accusantium repellat voluptas cupiditate ipsum voluptate beatae, atque, dolorem recusandae repudiandae nisi? Rerum nihil unde at officia. Iure asperiores, incidunt ullam labore dolore molestiae. Voluptatibus, beatae aut.",
+            "city": "Cartagena",
+            "gender" : "Champeta Urbana"
+          },
+          {
+            "id": 5,
+            "nameGropu": "Maluma",
+            "image":"https://i.scdn.co/image/ab67616d0000b2730c912949e9f848cc95797b27",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sed alias laborum iste adipisci deserunt pariatur voluptatum magnam error, omnis ex rem exercitationem doloremque eos fuga velit dolore, voluptas illum. Reiciendis quibusdam ut corporis, hic dignissimos dolorem excepturi incidunt deleniti, soluta perferendis nulla rem ipsa ratione, minima cupiditate voluptate? Sapiente culpa magnam, voluptatem ea omnis deleniti beatae? Perspiciatis soluta architecto, veniam, accusamus suscipit culpa repudiandae nobis quam quia necessitatibus quos. Architecto sunt quis accusantium repellat voluptas cupiditate ipsum voluptate beatae, atque, dolorem recusandae repudiandae nisi? Rerum nihil unde at officia. Iure asperiores, incidunt ullam labore dolore molestiae. Voluptatibus, beatae aut.",
+            "city": "Medellín",
+            "gender" : "Reggaetón"
+          },
+          {
+            "id": 6,
+            "nameGropu": "Jessi Uribe",
+            "image":"https://direct.rhapsody.com/imageserver/images/alb.321555137/600x600.jpg",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sed alias laborum iste adipisci deserunt pariatur voluptatum magnam error, omnis ex rem exercitationem doloremque eos fuga velit dolore, voluptas illum. Reiciendis quibusdam ut corporis, hic dignissimos dolorem excepturi incidunt deleniti, soluta perferendis nulla rem ipsa ratione, minima cupiditate voluptate? Sapiente culpa magnam, voluptatem ea omnis deleniti beatae? Perspiciatis soluta architecto, veniam, accusamus suscipit culpa repudiandae nobis quam quia necessitatibus quos. Architecto sunt quis accusantium repellat voluptas cupiditate ipsum voluptate beatae, atque, dolorem recusandae repudiandae nisi? Rerum nihil unde at officia. Iure asperiores, incidunt ullam labore dolore molestiae. Voluptatibus, beatae aut.",
+            "city": "Bucaramanga",
+            "gender" : "Popular"
+          },
+          {
+            "id": 7,
+            "nameGropu": "Sebastián Yatra",
+            "image":"https://laletramusical.net/wp-content/uploads/2021/04/Sebastian-Yatra-Hecho-x-Sebas-Directo-Al-Corazon-Ep-2021.jpg",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sed alias laborum iste adipisci deserunt pariatur voluptatum magnam error, omnis ex rem exercitationem doloremque eos fuga velit dolore, voluptas illum. Reiciendis quibusdam ut corporis, hic dignissimos dolorem excepturi incidunt deleniti, soluta perferendis nulla rem ipsa ratione, minima cupiditate voluptate? Sapiente culpa magnam, voluptatem ea omnis deleniti beatae? Perspiciatis soluta architecto, veniam, accusamus suscipit culpa repudiandae nobis quam quia necessitatibus quos. Architecto sunt quis accusantium repellat voluptas cupiditate ipsum voluptate beatae, atque, dolorem recusandae repudiandae nisi? Rerum nihil unde at officia. Iure asperiores, incidunt ullam labore dolore molestiae. Voluptatibus, beatae aut.",
+            "city": "Medellín",
+            "gender" : "Pop Urbano"
+          },
+          {
+            "id": 8,
+            "nameGropu": "Maía",
+            "image":"https://img.discogs.com/GCGiPxDBP1q350kAZSFuLiggp-U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10911305-1506378779-2778.jpeg.jpg",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sed alias laborum iste adipisci deserunt pariatur voluptatum magnam error, omnis ex rem exercitationem doloremque eos fuga velit dolore, voluptas illum. Reiciendis quibusdam ut corporis, hic dignissimos dolorem excepturi incidunt deleniti, soluta perferendis nulla rem ipsa ratione, minima cupiditate voluptate? Sapiente culpa magnam, voluptatem ea omnis deleniti beatae? Perspiciatis soluta architecto, veniam, accusamus suscipit culpa repudiandae nobis quam quia necessitatibus quos. Architecto sunt quis accusantium repellat voluptas cupiditate ipsum voluptate beatae, atque, dolorem recusandae repudiandae nisi? Rerum nihil unde at officia. Iure asperiores, incidunt ullam labore dolore molestiae. Voluptatibus, beatae aut.",
+            "city": "Barranquilla",
+            "gender" : "Pop Urbano"
+          }
+        ]
+    }
+ 
